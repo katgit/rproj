@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "a<-rnorm(100)\nprint(mean(a))",
+    "created" : 1505480488122.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "337665507",
+    "id" : "6D1F999A",
+    "lastKnownWriteTime" : 1505480519,
+    "last_content_update" : 1505480520205,
+    "path" : "P:/Documents/SCV-Projects/temp/norepo/newrepo/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
